@@ -212,6 +212,9 @@ INPUT ./figures/lam_cycles1.pdf
 INPUT figures/bifurc1.pdf
 INPUT ./figures/bifurc1.pdf
 INPUT ./figures/bifurc1.pdf
+INPUT figures/lyap.pdf
+INPUT ./figures/lyap.pdf
+INPUT ./figures/lyap.pdf
 INPUT udovich20biodiscr.bbl
 INPUT udovich20biodiscr.bbl
 INPUT udovich20biodiscr.aux
