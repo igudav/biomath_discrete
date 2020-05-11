@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex udovich20biodiscr"] 1589219057 "udovich20biodiscr.aux" "udovich20biodiscr.bbl" "udovich20biodiscr" 1589219057
+["bibtex udovich20biodiscr"] 1589220554 "udovich20biodiscr.aux" "udovich20biodiscr.bbl" "udovich20biodiscr" 1589220734
   "./utf8gost705u.bst" 1565371105 30556 f199395139a406fa1bbc5650c70663f8 ""
   "biblio.bib" 1588792071 222 ac1df0d8d65074398ef51e0d8cd69667 ""
-  "udovich20biodiscr.aux" 1589219057 6465 4768814642a3306f5a82b975192d32e0 "pdflatex"
+  "udovich20biodiscr.aux" 1589220734 7521 ccd11541b8c2409afcb7b03e890c40c7 "pdflatex"
   (generated)
-  "udovich20biodiscr.blg"
   "udovich20biodiscr.bbl"
-["pdflatex"] 1589219057 "udovich20biodiscr.tex" "udovich20biodiscr.pdf" "udovich20biodiscr" 1589219057
+  "udovich20biodiscr.blg"
+["pdflatex"] 1589220733 "udovich20biodiscr.tex" "udovich20biodiscr.pdf" "udovich20biodiscr" 1589220734
   "/etc/texmf/web2c/texmf.cnf" 1579703153 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1582221183 3308 eee81981029f67083258db36df06e523 ""
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1582038707 3312 d199be9bd555944e2403193d58a0256a ""
@@ -17,7 +17,6 @@
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1582038702 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1582038466 3264 03c2b9e4787a40d3b9c197c38b93b558 ""
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/larm2488.tfm" 1582038470 3264 102508a989355317d27912fb22a38399 ""
-  "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm" 1582221294 3512 f3a56cfe95a159371df20f73d1eb107d ""
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/lati1440.tfm" 1582038482 3528 460e6901416a816cf4afa844b5d54101 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -124,7 +123,6 @@
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb" 1579703258 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb" 1579703258 131078 d96015a2fa5c350129e933ca070b2484 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb" 1579703258 131290 ea265c7de37664eae04a6f91a1f7a51f ""
-  "/usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb" 1579703258 198221 ca5aa71411090ef358a6cc78b7458365 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb" 1579703258 187615 3df8b496c716586eebd1546cd4031312 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1562720991 35073 2a40cfca74fcd5e2568b569ccaadf3f1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1579703324 4549418 4593509275c90822931a1b14bc17851e ""
@@ -142,12 +140,12 @@
   "figures/point0.pdf_tex" 1588830053 2529 7a7ed9bf51f7a82ada973d34cf4f0b60 ""
   "msu.eps" 1571989471 29500 44f46d614220a0394ce683d1ac83f524 ""
   "titul.tex" 1588851466 920 0e5aa73cc9258a23d2d17d712c8201b2 ""
-  "udovich20biodiscr.aux" 1589219057 6465 4768814642a3306f5a82b975192d32e0 "pdflatex"
-  "udovich20biodiscr.bbl" 1589219057 616 5f60a43bdaed07efce50a35dc72eb7f9 "bibtex udovich20biodiscr"
-  "udovich20biodiscr.tex" 1589219057 12761 be541f2f5abedab7210dcdb18f250c10 ""
-  "udovich20biodiscr.toc" 1589219057 1919 574249fdf6e1c0044d297db289ed4f55 "pdflatex"
+  "udovich20biodiscr.aux" 1589220734 7521 ccd11541b8c2409afcb7b03e890c40c7 "pdflatex"
+  "udovich20biodiscr.bbl" 1589220554 616 5f60a43bdaed07efce50a35dc72eb7f9 "bibtex udovich20biodiscr"
+  "udovich20biodiscr.tex" 1589220733 15761 ba82d756aa2edebbdbc4c9915f5b575c ""
+  "udovich20biodiscr.toc" 1589220734 2757 a9687150ebfa234326afacb42241d67b "pdflatex"
   (generated)
   "udovich20biodiscr.log"
   "udovich20biodiscr.pdf"
-  "udovich20biodiscr.aux"
   "udovich20biodiscr.toc"
+  "udovich20biodiscr.aux"

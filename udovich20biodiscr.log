@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.1.22)  11 MAY 2020 20:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.1.22)  11 MAY 2020 21:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -599,17 +599,7 @@ File: figures/point0.pdf Graphic file (type pdf)
 <use figures/point0.pdf, page 2>
 Package pdftex.def Info: figures/point0.pdf , page2 used on input line 59.
 (pdftex.def)             Requested size: 390.0pt x 195.00438pt.
-)
-Overfull \hbox (6.16776pt too wide) in paragraph at lines 139--144
-[]\T2A/cmr/m/it/12 Пусть за-да-на дис-крет-ная ди-на-ми-е-ская си-сте-ма $\OML/cmm/m/it/12 u[] \OT1/cmr/m/n/12 =
- []
-
-
-Overfull \hbox (0.23645pt too wide) in paragraph at lines 139--144
-\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 u[]\OT1/cmr/m/n/12 )$\T2A/cmr/m/it/12 . Пусть так-же $\OML/cmm/m/it/12 u[]$\T2A/cmr/m/it/12 ^^V  непо-движ-ная точ-ка. То-гда непо-движ-ная точ-
- []
-
-[4 <./figures/point0.pdf> <./figures/point0.pdf>] (./figures/lameray1.pdf_tex
+) [4 <./figures/point0.pdf> <./figures/point0.pdf>] (./figures/lameray1.pdf_tex
 <figures/lameray1.pdf, id=42, page=1, 682.86612pt x 207.40321pt>
 File: figures/lameray1.pdf Graphic file (type pdf)
 <use figures/lameray1.pdf, page 1>
@@ -622,37 +612,42 @@ File: figures/cycles.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/cycles.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 390.0pt x 138.96931pt.
 ) [5 <./figures/lameray1.pdf>] (./figures/lam_cycles1.pdf_tex
-<figures/lam_cycles1.pdf, id=69, page=1, 666.96681pt x 273.1806pt>
+<figures/lam_cycles1.pdf, id=68, page=1, 666.96681pt x 273.1806pt>
 File: figures/lam_cycles1.pdf Graphic file (type pdf)
 <use figures/lam_cycles1.pdf, page 1>
 Package pdftex.def Info: figures/lam_cycles1.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 390.0pt x 159.74121pt.
 )
-<figures/bifurc1.pdf, id=70, 580.86916pt x 280.88412pt>
+<figures/bifurc1.pdf, id=69, 580.86916pt x 280.88412pt>
 File: figures/bifurc1.pdf Graphic file (type pdf)
 <use figures/bifurc1.pdf>
-Package pdftex.def Info: figures/bifurc1.pdf  used on input line 203.
+Package pdftex.def Info: figures/bifurc1.pdf  used on input line 198.
 (pdftex.def)             Requested size: 390.0pt x 188.59425pt.
  [6 <./figures/cycles.pdf> <./figures/lam_cycles1.pdf>]
-<figures/lyap.pdf, id=128, 595.21762pt x 280.88412pt>
+<figures/lyap.pdf, id=127, 595.21762pt x 280.88412pt>
 File: figures/lyap.pdf Graphic file (type pdf)
 <use figures/lyap.pdf>
-Package pdftex.def Info: figures/lyap.pdf  used on input line 226.
+Package pdftex.def Info: figures/lyap.pdf  used on input line 221.
 (pdftex.def)             Requested size: 390.0pt x 184.04688pt.
- (./udovich20biodiscr.bbl [7 <./figures/bifurc1.pdf>]) [8 <./figures/lyap.pdf>] (./udovich20biodiscr.aux) ) 
+ [7 <./figures/bifurc1.pdf>]
+Overfull \hbox (3.16278pt too wide) in paragraph at lines 245--245
+|[]\T2A/cmr/bx/n/17.28 Исследование устой-чи-во-сти неподвж-ных
+ []
+
+[8 <./figures/lyap.pdf>] (./udovich20biodiscr.bbl) [9] (./udovich20biodiscr.aux) ) 
 Here is how much of TeX's memory you used:
- 6717 strings out of 492609
- 94923 string characters out of 6131462
- 181479 words of memory out of 5000000
- 10453 multiletter control sequences out of 15000+600000
- 17792 words of font info for 46 fonts, out of 8000000 for 9000
+ 6720 strings out of 492609
+ 94943 string characters out of 6131462
+ 181524 words of memory out of 5000000
+ 10457 multiletter control sequences out of 15000+600000
+ 16922 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,14n,39p,857b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on udovich20biodiscr.pdf (8 pages, 619835 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on udovich20biodiscr.pdf (9 pages, 600976 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
+ 223 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

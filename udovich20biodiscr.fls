@@ -193,7 +193,6 @@ INPUT ./figures/point0.pdf
 INPUT figures/point0.pdf
 INPUT ./figures/point0.pdf
 INPUT ./figures/point0.pdf
-INPUT /home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
 INPUT figures/lameray1.pdf_tex
 INPUT figures/lameray1.pdf_tex
 INPUT figures/lameray1.pdf
@@ -237,5 +236,4 @@ INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb
