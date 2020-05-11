@@ -175,22 +175,39 @@ $\sqrt{u}$.
     u = (f \circ f \circ f)(u)
 \end{equation}
 для цикла длины 3.
-На рис.~\ref{fig:lameray1} показаны графики функций $f$,  $f \circ f$ и
+На рис.~\ref{fig:cycles} показаны графики функций $f$,  $f \circ f$ и
 $f \circ f \circ f$, из которых видно, что возможно появление циклов длины 2 и 3,
 так как существуют решения соответствующих уравнений, не совпадающие с решениями уравнения для неподвижной точки.
 \begin{figure}[ht]
     \centering
     \incfig{cycles}
     \caption{Графики функций $f$,  $f \circ f$ и $f \circ f \circ f$ при различных значениях параметра.}
-    \label{fig:lameray1}
+    \label{fig:cycles}
 \end{figure}
+
+Покажем циклы длины 2 и 3 на диаграмме Ламерея (рис.~\ref{fig:lam_cycles1}) при $r=1$ и  $r=1{,}5$.
+
+\begin{figure}[ht]
+    \centering
+    \incfig{lam_cycles1}
+    \caption{Циклы длины 2 и 3 на диаграмме Ламерея.}
+    \label{fig:lam_cycles1}
+\end{figure}
+
+Также в анализе дискретных систем используются бифуркационные диаграммы.
+Для ее построения вычислим 1000 итераций дискретной системы до стабилизации, а следующие 100 точек отложим по оси ординат.
+Полученный график приведен на рис.~\ref{fig:bifurc1}.
 
 \begin{figure}[ht]
     \centering
     \includegraphics[width=\textwidth]{figures/bifurc1.pdf}
-    \caption{Графики функций $f$,  $f \circ f$ и $f \circ f \circ f$ при различных значениях параметра.}
+    \caption{Бифуркационная диаграма.}
     \label{fig:bifurc1}
 \end{figure}
+
+На графике видно, как неподвижная точка теряет устойчивость при $r=3\!/4$ и возникает цикл длины 2. 
+Также видно, что существуют значения параметра, при которых для системы характерно хаотическое поведение.
+
 
 \bibliographystyle{utf8gost705u}
 \bibliography{biblio}

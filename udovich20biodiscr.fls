@@ -204,6 +204,11 @@ INPUT figures/cycles.pdf_tex
 INPUT figures/cycles.pdf
 INPUT ./figures/cycles.pdf
 INPUT ./figures/cycles.pdf
+INPUT figures/lam_cycles1.pdf_tex
+INPUT figures/lam_cycles1.pdf_tex
+INPUT figures/lam_cycles1.pdf
+INPUT ./figures/lam_cycles1.pdf
+INPUT ./figures/lam_cycles1.pdf
 INPUT figures/bifurc1.pdf
 INPUT ./figures/bifurc1.pdf
 INPUT ./figures/bifurc1.pdf
