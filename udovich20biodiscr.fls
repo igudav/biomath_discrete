@@ -214,6 +214,12 @@ INPUT ./figures/bifurc1.pdf
 INPUT figures/lyap.pdf
 INPUT ./figures/lyap.pdf
 INPUT ./figures/lyap.pdf
+INPUT figures/weak_focus.pdf
+INPUT ./figures/weak_focus.pdf
+INPUT ./figures/weak_focus.pdf
+INPUT figures/cycle_after_bifurc.pdf
+INPUT ./figures/cycle_after_bifurc.pdf
+INPUT ./figures/cycle_after_bifurc.pdf
 INPUT udovich20biodiscr.bbl
 INPUT udovich20biodiscr.bbl
 INPUT udovich20biodiscr.aux
@@ -236,4 +242,5 @@ INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb

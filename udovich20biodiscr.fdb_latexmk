@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex udovich20biodiscr"] 1589220554 "udovich20biodiscr.aux" "udovich20biodiscr.bbl" "udovich20biodiscr" 1589220734
+["bibtex udovich20biodiscr"] 1589274328 "udovich20biodiscr.aux" "udovich20biodiscr.bbl" "udovich20biodiscr" 1589274329
   "./utf8gost705u.bst" 1565371105 30556 f199395139a406fa1bbc5650c70663f8 ""
   "biblio.bib" 1588792071 222 ac1df0d8d65074398ef51e0d8cd69667 ""
-  "udovich20biodiscr.aux" 1589220734 7521 ccd11541b8c2409afcb7b03e890c40c7 "pdflatex"
+  "udovich20biodiscr.aux" 1589274329 9634 9704c666ab986b77c84e3463bb47477f "pdflatex"
   (generated)
   "udovich20biodiscr.bbl"
   "udovich20biodiscr.blg"
-["pdflatex"] 1589220733 "udovich20biodiscr.tex" "udovich20biodiscr.pdf" "udovich20biodiscr" 1589220734
+["pdflatex"] 1589274328 "udovich20biodiscr.tex" "udovich20biodiscr.pdf" "udovich20biodiscr" 1589274329
   "/etc/texmf/web2c/texmf.cnf" 1579703153 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1582221183 3308 eee81981029f67083258db36df06e523 ""
   "/home/igudav/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1582038707 3312 d199be9bd555944e2403193d58a0256a ""
@@ -123,11 +123,13 @@
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb" 1579703258 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb" 1579703258 131078 d96015a2fa5c350129e933ca070b2484 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb" 1579703258 131290 ea265c7de37664eae04a6f91a1f7a51f ""
+  "/usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb" 1579703258 95792 fb800ffa2babe7bd5fafc1817d8f1313 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb" 1579703258 187615 3df8b496c716586eebd1546cd4031312 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1562720991 35073 2a40cfca74fcd5e2568b569ccaadf3f1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1579703324 4549418 4593509275c90822931a1b14bc17851e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1579703365 4263437 d771055d027e73cedd34699b18addc0c ""
   "figures/bifurc1.pdf" 1589196708 290255 b72776580dd5cee61e3aa8859e8aa09c ""
+  "figures/cycle_after_bifurc.pdf" 1589274140 2249613 e969c4e5efaee026ed12af2b518109a6 ""
   "figures/cycles.pdf" 1588855262 32758 0b451cb0d9a2fca693c92c6c93fb014f ""
   "figures/cycles.pdf_tex" 1588855262 2053 fc829cb69d8ab6dfd61c82ae92d34421 ""
   "figures/lam_cycles1.pdf" 1589202398 25053 1541dfb51d98c5bd76444109fad5603a ""
@@ -138,14 +140,15 @@
   "figures/msu-eps-converted-to.pdf" 1574361023 5465 c970c0e0aba847f4bbb42eaf9833189a ""
   "figures/point0.pdf" 1588830053 2136 f983fa39fd98a94e039b51d50c675e9d ""
   "figures/point0.pdf_tex" 1588830053 2529 7a7ed9bf51f7a82ada973d34cf4f0b60 ""
+  "figures/weak_focus.pdf" 1589273436 686210 630b570126c3af6bad947cb88325f948 ""
   "msu.eps" 1571989471 29500 44f46d614220a0394ce683d1ac83f524 ""
   "titul.tex" 1588851466 920 0e5aa73cc9258a23d2d17d712c8201b2 ""
-  "udovich20biodiscr.aux" 1589220734 7521 ccd11541b8c2409afcb7b03e890c40c7 "pdflatex"
-  "udovich20biodiscr.bbl" 1589220554 616 5f60a43bdaed07efce50a35dc72eb7f9 "bibtex udovich20biodiscr"
-  "udovich20biodiscr.tex" 1589220733 15761 ba82d756aa2edebbdbc4c9915f5b575c ""
-  "udovich20biodiscr.toc" 1589220734 2757 a9687150ebfa234326afacb42241d67b "pdflatex"
+  "udovich20biodiscr.aux" 1589274329 9634 9704c666ab986b77c84e3463bb47477f "pdflatex"
+  "udovich20biodiscr.bbl" 1589274328 616 5f60a43bdaed07efce50a35dc72eb7f9 "bibtex udovich20biodiscr"
+  "udovich20biodiscr.tex" 1589274327 18832 ffa82e9e07f79eb8399194190a7b8685 ""
+  "udovich20biodiscr.toc" 1589274329 3127 895ff3d937f7e48218a148d6ce1e68ba "pdflatex"
   (generated)
-  "udovich20biodiscr.log"
   "udovich20biodiscr.pdf"
-  "udovich20biodiscr.toc"
+  "udovich20biodiscr.log"
   "udovich20biodiscr.aux"
+  "udovich20biodiscr.toc"
